@@ -1,2 +1,2 @@
 # Networking-project
-![](./network.jpg)
+![](./network.png)
